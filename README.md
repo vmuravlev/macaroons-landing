@@ -22,7 +22,7 @@ GitHub Pages: https://vmuravlev.github.io/macaroons-lending/
 ## How to run locally
 
 ```bash
-git clone https://github.com/vmuravlev/macaroons-lending.git
+git clone https://github.com/vmuravlev/macaroons-landing.git
 cd macaroons-lending
 # if you use a bundler or dev server:
 npm install
