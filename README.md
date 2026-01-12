@@ -4,7 +4,7 @@ Adaptive landing page with a form and theme switcher (color palette).
 
 ## Demo
 
-GitHub Pages: https://vmuravlev.github.io/macaroons-lending/
+GitHub Pages: https://vmuravlev.github.io/macaroons-landing/
 
 ## Features
 
